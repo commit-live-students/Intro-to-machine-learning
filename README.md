@@ -52,6 +52,7 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
+* [Complete the following setup before attempting the assignments](https://github.com/commit-live-students/Intro-to-machine-learning/blob/master/00_preclass/000_pre-class-activities.ipynb)
 
 
 & many more inside commit.live.
