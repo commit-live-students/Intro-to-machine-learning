@@ -52,7 +52,7 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
-* [Complete the following setup before attempting the assignments](https://github.com/commit-live-students/Intro-to-machine-learning/blob/master/00_preclass/000_pre-class-activities.ipynb)
+[Complete this  setup before attempting the assignments](https://github.com/commit-live-students/Intro-to-machine-learning/blob/master/00_preclass/000_pre-class-activities.ipynb)
 
 
 & many more inside commit.live.
@@ -62,9 +62,8 @@ After this lesson, you'll be able to
 
 * Check out the [intro to scikit-learn][] video series from SciPy2013.
 * Learn more about `sklearn` by reading [API design for machine learning software: experiences from the scikit-learn project](http://arxiv.org/abs/1309.0238).
- * Check out "[Datalicious Notebookmania – My favorite 7 IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)".
+ * Check out [Datalicious Notebookmania – My favorite 7 IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 * [intro to scikit-learn]: https://www.youtube.com/watch?v=r4bRUvvlaBw
-
 * Find out more about [Nicholas Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   * He has written following landmark books:
     * Fooled by Randomness
