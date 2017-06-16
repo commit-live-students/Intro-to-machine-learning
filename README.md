@@ -43,7 +43,7 @@ After this lesson, you'll be able to
 
 ## Slides
 
-@[gslides](1s3zdFAgl8tmIckLk5BRMXPytU6Q-IZROw_qhm-4PVBM)
+@[gslides](1mvRfxXCs1Oha9njg87LOgvgE9hDNkgsfra3PdIbzVA4)
 
 ## Instructors code alongs
 
