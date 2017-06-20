@@ -47,8 +47,8 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
-[Thinking about Data](https://github.com/soumendra/greyatom_twobeards/blob/master/content/01_lectures/002_week_1_day_1.ipynb)
-[Introduction to Machine Learning](https://github.com/soumendra/greyatom_twobeards/blob/master/content/01_lectures/001_intro_to_ml.ipynb)
+* [Thinking about Data](https://github.com/commit-live-students/Intro-to-machine-learning/blob/master/002_week_1_day_1.ipynb)
+* [Introduction to Machine Learning](https://github.com/commit-live-students/Intro-to-machine-learning/blob/master/001_intro_to_ml.ipynb)
 
 
 ## Assignments 
