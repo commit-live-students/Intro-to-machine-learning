@@ -65,19 +65,50 @@ After this lesson, you'll be able to
  * Check out [Datalicious Notebookmania – My favorite 7 IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 * [intro to scikit-learn]: https://www.youtube.com/watch?v=r4bRUvvlaBw
 * Find out more about [Nicholas Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-  * He has written following landmark books:
-    * Fooled by Randomness
-    * The Black Swan
-    * Anti Fragile 
-    * Feedly 
-    * Curate your personal feed for ML and DS
+* He has written following landmark books:
+  * Fooled by Randomness
+  * The Black Swan
+  * Anti Fragile 
+  * Feedly 
+  * Curate your personal feed for ML and DS
 
-   * Add the relevant channels on Youtube 
+ * Feedly
+    * [Algorithmia](http://blog.algorithmia.com/rss)
+    * [Algorithms for the Masses - Julian m Bucknall](http://feeds.feedburner.com/boyet/blog)
+    * [Algorithms Weekly by Petr Mitrichev](http://petr-mitrichev.blogspot.com/feeds/posts/default)
+    * [Artificial Intelligence News -- ScienceDaily](http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml)
+    * [Daniel Lemire's blog](http://feeds.feedburner.com/daniel-lemire/atom)
+    * [Data Science 101](http://datascience101.wordpress.com/feed/)
+    * [DataTau](http://www.datatau.com/rss)
+    * [Everyone's Blog Posts](http://www.datasciencecentral.com/profiles/blog/feed?xn_auth=no)
+    * [FastML](http://fastml.com/atom.xml)
+    * [Geeking with Greg](http://glinden.blogspot.com/feeds/posts/defa)
+    * [GeeksforGeeks](http://feeds.feedburner.com/Geeksforgeeks)
+    * [Journal of Machine Learning Research](http://jmlr.csail.mit.edu/jmlr.xml)
+    * [KDnuggets](http://feeds.feedburner.com/kdnuggets-data-mining-analytics)
+    * [Machine Learning](http://www.reddit.com/r/MachineLearning/.rss)
+    * [Machine Learning (Theory)](http://hunch.net/?feed=rss2)
+    * [Machine Learning Mastery](http://feeds.feedburner.com/MachineLearningMastery)
+    * [Neural Networks](http://rss.sciencedirect.com/publication/science/08936080)
+    * [Newest questions tagged scikit-learn - Stack Overflow](http://stackoverflow.com/feeds/tag?tagnames=scikit-learn&sort=newest)
+    * [No Free Hunch](http://blog.kaggle.com/feed/)
+    * [Nuit Blanche](http://nuit-blanche.blogspot.com/feeds/posts/default)
+    * [Simply Statistics](http://simplystatistics.org/feed/)
+    * [Statistical Modeling, Causal Inference, and Social Science](http://www.stat.columbia.edu/~cook/movabletype/mlm/atom.xml)
+    * [mathbabe](http://mathbabe.org/feed/)
+ * Curate your personal feed for ML and DS
+ * Add the relevant channels on Youtube 
+    * [Abu Yaser Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+    * [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/featured)
+    * [Nat & Friends](https://www.youtube.com/playlist?list=PLeqAcoTy5743VbzOnh78inJMEpl1IRyLL)
+    * [Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+    * [Ben Lambert](https://www.youtube.com/channel/UC3tFZR3eL1bDY8CqZDOQh-w)
+    * [Mathematical Monk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
 
    * **Answer Questions**:
 
-    * Can search based algorithms be applied for Linear Regression?
-    * Create an Excel sheet 
+  * Can search based algorithms be applied for Linear Regression?
+  * Create an Excel sheet 
     * Can you build a regression model in MS Excel? [Solution](http://www.clemson.edu/ces/phoenix/tutorials/excel/regression.html)
     * Can you build a regression model in MS Excel using closed form equations?
     * Can you build a regression model in MS Excel using SGD?
