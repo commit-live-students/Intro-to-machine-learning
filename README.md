@@ -46,36 +46,36 @@ After this lesson, you'll be able to
     * [History of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 
 * Overview of key Algorithms
-  * [Deep Learning & Neural Nets](https://docs.google.com/spreadsheets/d/1fR4duGwU05o-STngjAaDIsHSxruiKOipfmTTX8NQtgY/pubhtml)
+  #### [Deep Learning & Neural Nets](https://docs.google.com/spreadsheets/d/1fR4duGwU05o-STngjAaDIsHSxruiKOipfmTTX8NQtgY/pubhtml)
    * 1.1 No. of Layers
    * 1.2 No. of Nodes
    * 1.3 Weights
    * 1.4 Activation Function
    * 1.5 Learning Rate - Algorithms to vary Learning Rates
    * 1.6 Other Hyper Parameters
-  * [Ordinary Least Square](http://students.brown.edu/seeing-theory/regression/index.html#first)
+  #### [Ordinary Least Square](http://students.brown.edu/seeing-theory/regression/index.html#first)
    * 2.1 Regularization
    * 2.2 Shrinkage
    * 2.3 Kernels
-  * [Decision Tree - Entropy based](https://www.quora.com/What-is-an-intuitive-explanation-of-a-decision-tree) + [Marketing Example](http://www.simafore.com/blog/bid/78307/How-to-use-decision-trees-in-customer-acquisition-strategies)
+  #### [Decision Tree - Entropy based](https://www.quora.com/What-is-an-intuitive-explanation-of-a-decision-tree) + [Marketing Example](http://www.simafore.com/blog/bid/78307/How-to-use-decision-trees-in-customer-acquisition-strategies)
    * 3.1 Tree Depth
    * 3.2 Prune
    * 3.3 Stopping Criteria
-  * [Maximum Likelihood](https://www.quora.com/How-do-you-explain-maximum-likelihood-estimation-intuitively) - [Video1](https://www.youtube.com/watch?v=I_dhPETvll8) + [Video2](https://www.youtube.com/watch?v=Z582V53dfr8) + [Video3](https://www.youtube.com/watch?v=jpHreXjtw1Q)
+  #### [Maximum Likelihood](https://www.quora.com/How-do-you-explain-maximum-likelihood-estimation-intuitively) - [Video1](https://www.youtube.com/watch?v=I_dhPETvll8) + [Video2](https://www.youtube.com/watch?v=Z582V53dfr8) + [Video3](https://www.youtube.com/watch?v=jpHreXjtw1Q)
    * 4.1 This is a Base Algorithm  
-  * [PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+  #### [PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
    * 5.1 No. of Components
    * 5.2 Learning Rate
    * 5.3 Random Seed
-  * [Stochastic Gradient Descent](https://www.quora.com/What-is-an-intuitive-explanation-of-gradient-descent) 
+  #### [Stochastic Gradient Descent](https://www.quora.com/What-is-an-intuitive-explanation-of-gradient-descent) 
    * 6.1 Learning rate 
    * 6.2 Type of Loss Function
    * 6.3 Penalty
-  * [Clustering - Centroid Based](https://www.slideshare.net/kasunrangawijeweera/k-means-clustering-algorithm)
+  #### [Clustering - Centroid Based](https://www.slideshare.net/kasunrangawijeweera/k-means-clustering-algorithm)
    * 7.1 No. of clusters 
    * 7.2 Algorithm - 
    * 7.3 N Jobs - Random Seed
-  * [Ensembles](https://www.youtube.com/watch?v=Cn7StaXU_8o)
+  #### [Ensembles](https://www.youtube.com/watch?v=Cn7StaXU_8o)
    * 8.1 Everything in Oridinary Least Square/ Decision Tree and Stochastic Gradient Descent more
 
 * Thinking about Data
