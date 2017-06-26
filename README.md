@@ -20,13 +20,34 @@ After this lesson, you'll be able to
 
 ## Agenda
 
+* Merits of 3 Pass System
 * What is Machine Learning?
 * [History of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 * Types of Machine Learning
 * The Machine Learning Workflow
+
+* Scientific Evolution 01 
+    * Difference between Principal & Law
+    * [Newton came up with a Principal](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)  
+    * [J. D. Murray](http://www.springer.com/in/book/9780387952239)
+    * Statisticians
+    * Modern Data Science
+* Management Evolution 02
+    * Henry Ford - Personal Charisma - Key Lieutenants 
+    * Toyota - Process - 6 Sigma
+    * Michael Porter - 5 Forces - Consulting Practices 
+    * Evolution of Decision Support Systems - Investment Banking 
+    * Thomas Davenport - Analytics 3.0
+    * Tactical Support - Mass Personalization
+* Algorithmic Evolution
+    * Originally prosposed in 1963 - SVM - [Vapnik](https://en.wikipedia.org/wiki/Support_vector_machine)
+    * Kernel Mathematically implemented in 1995
+    * SVM first won on Kaggle in [2013](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions/) 
+    * [History of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+
 * Overview of key Algorithms
   * [Deep Learning & Neural Nets](https://docs.google.com/spreadsheets/d/1fR4duGwU05o-STngjAaDIsHSxruiKOipfmTTX8NQtgY/pubhtml)
-  * [Ordinary Least Square](https://isites.harvard.edu/fs/docs/icb.topic515975.files/OLSDerivation.pdf)
+  * [Ordinary Least Square](http://students.brown.edu/seeing-theory/regression/index.html#first)
   * [Decision Tree - Entropy based](https://www.quora.com/What-is-an-intuitive-explanation-of-a-decision-tree) + [Marketing Example](http://www.simafore.com/blog/bid/78307/How-to-use-decision-trees-in-customer-acquisition-strategies)
   * [Maximum Likelihood](https://www.quora.com/How-do-you-explain-maximum-likelihood-estimation-intuitively) - [Video1](https://www.youtube.com/watch?v=I_dhPETvll8) + [Video2](https://www.youtube.com/watch?v=Z582V53dfr8) + [Video3](https://www.youtube.com/watch?v=jpHreXjtw1Q)
   * [PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)/  
@@ -37,8 +58,8 @@ After this lesson, you'll be able to
 * Thinking about Data
 * Where does Data Come from?
 * How to Access Data?
-* Data from the Web 1 (Web Scraping)
-* Data from the Web 2 (APIs)
+  * Data from the Web 1 (Web Scraping)
+  * Data from the Web 2 (APIs)
 
 
 ## Slides
