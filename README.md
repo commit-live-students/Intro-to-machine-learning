@@ -3,7 +3,7 @@
 # Introduction to Machine Learning
 
 ## Lets Get Rolling - Student Pre-Read
-Before this lesson , we recommend you go through
+Before this lesson , we recommend you to go through
 
  * Read through the [scikit-learn quick-start](http://scikit-learn.org/dev/tutorial/basic/tutorial.html).
  * Take a peak at the [Machine Learning Cheat Sheet (for scikit-learn)](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
